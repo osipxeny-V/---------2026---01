@@ -1,0 +1,19 @@
+h1{
+    color: rgba(255, 0, 0, 0.448);
+}
+body{
+    background-color:rgba(128, 128, 128, 0.211);
+}
+p{
+    color: blueviolet;
+}
+ul{
+    background-color: rgba(0, 0, 255, 0.204);
+    font-weight: bold;
+}
+li{
+    color: rgb(186, 43, 226);
+}
+q{
+    background-color: rgba(128, 128, 128, 0.153);
+}
