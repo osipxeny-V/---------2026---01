@@ -1,8 +1,9 @@
+body {
+    font-family: "Open Sans", sans-serif;
+  }
 h1{
     color: rgba(255, 0, 0, 0.448);
-}
-body{
-    background-color:rgba(128, 128, 128, 0.211);
+    font-family: "Nunito Sans", sans-serif;
 }
 p{
     color: blueviolet;
